@@ -1,0 +1,6 @@
+Also, if you'd like to learn more about the inner-workings of the algorithms we used, check these out:
+
+Linear Regression
+How Neural Networks Work
+Convolutional Neural Networks
+Recurrent Neural Networks
